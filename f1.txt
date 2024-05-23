@@ -1,2 +1,3 @@
 firstline in f1
 work is goinon new editinin f1 
+two
